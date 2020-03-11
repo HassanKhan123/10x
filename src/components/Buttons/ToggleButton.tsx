@@ -51,15 +51,10 @@ export default (props:IProps) => {
     
         },
         innerViewActive: {
-            // position: "absolute",
             marginTop:'5%',
             marginLeft:'52%',
-          
             width: "20px",
             height: "20px",
-            // left: "5%",
-            // top: "11%",
-           
             backgroundColor: `${props.innerColor || 'white'}`,
             borderRadius: 12,
             cursor:'pointer'
