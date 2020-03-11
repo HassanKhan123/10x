@@ -22,7 +22,7 @@ function MiddleCover() {
                     </View>
                 </View>
                 <View style={{ width: '37%', justifyContent: 'center', marginRight: '5%' }}>
-                    <Text style={{ color: 'white',fontSize:'85%' }}>Large Company</Text>
+                    <Text style={{ color: 'white',fontSize:14 }}>Large Company</Text>
                 </View>
 
             </View>
@@ -94,7 +94,7 @@ const styles = StyleSheet.create({
         color: '#FFFFFF'
     },
     price: {
-        fontSize: '400%',
+        fontSize: 64,
         fontWeight: 'bold',
 
 
